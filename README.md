@@ -57,3 +57,11 @@ auth.logout()
 ```python
 {'url': 'https://ita-wiki.de/posts/25', 'post_id': 25, 'title': 'Ausdrücke und mathematische Operatoren', 'created_at': '2021-10-29T19:22:15.000000Z'}
 ```
+___
+
+# Installation
+Um das Python-Paket zu installieren, lade bitte dieses Repo herunter. Öffne danach eine PowerShell im selben Ordner wo sich die 'setup.py' befindet und führe folgendes aus:
+
+```powershell
+pip install .
+```
