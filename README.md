@@ -1,4 +1,9 @@
-# ITA-Wiki API-Wrapper für Python
+# ITA-Wiki API-Wrapper für Python [NOT WORKING]
+
+
+Projektstatus: Nicht funktiionsfähig. Repo bleibt erhalten. Wiki wurde vor einiger Zeit geschlossen.
+
+
 Das ist ein simpler API-Wrapper für das ITA-Wiki geschrieben in Python.
 
 Der API-Wrapper ist ab dem 01.04.2022 nicht mehr verwendbar das das ITA-Wiki nicht weitergeführt wird.
